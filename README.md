@@ -1,7 +1,5 @@
 # FoodDAO
 
-# Crypto-Bridge
-
 I must credit Alexander John Lee for this project. I learned how to build this DAO from his [repo](https://github.com/partylikeits1983/simpleDAO).
 
 This project showcases how a typical crypto DAO works.
