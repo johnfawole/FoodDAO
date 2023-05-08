@@ -30,5 +30,5 @@ I wrote a couple of loop programs in this project, which made me more familiar w
 
 Anyone who has followed my journey so far will understand I've been working aggressively on my development skill, even though I am a senior technical writer. I can craft high-quality technical content for your Web3 company due to my wealth of experience.
 
-[Follow me on the bird app](https://twitter.com/jofawole) buddy.
+[Follow me on Twitter](https://twitter.com/jofawole).
 
